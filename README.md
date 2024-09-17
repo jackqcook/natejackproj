@@ -1,0 +1,2 @@
+# natejackproj
+leetcode for math 
